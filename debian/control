@@ -2,7 +2,7 @@ Source: lingmo-gtk-themes
 Section: gnome
 Priority: optional
 Maintainer: LingmoOS <lingmo@lingmo.org>
-Build-Depends:
+Build-Depends: cmake, debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: https://lingmoos.com
 Vcs-Git: https://github.com/LingmoOS/
